@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  UnitTest5.1.D.cpp
+D:\Lab-5\5.1.D\5.1.D\Triad.h(22,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Lab-5\5.1.D\5.1.D\LongLong.cpp(6,66): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\LongLong.cpp(6,51): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\LongLong.cpp(10,56): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\LongLong.cpp(10,26): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\LongLong.cpp(15,56): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\LongLong.cpp(15,26): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\Triad.cpp(14,111): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Lab-5\5.1.D\5.1.D\Triad.cpp(28,21): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\Triad.cpp(29,23): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\Triad.cpp(62,13): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\Triad.cpp(62,33): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+D:\Lab-5\5.1.D\5.1.D\Triad.cpp(59,24): warning C4101: third: неиспользованная локальная переменная
+     Создается библиотека D:\Lab-5\5.1.D\Debug\UnitTest5.1.D.lib и объект D:\Lab-5\5.1.D\Debug\UnitTest5.1.D.exp
+  UnitTest5.1.D.vcxproj -> D:\Lab-5\5.1.D\Debug\UnitTest5.1.D.dll
